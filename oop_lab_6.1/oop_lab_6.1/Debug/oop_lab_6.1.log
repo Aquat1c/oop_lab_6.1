@@ -1,0 +1,29 @@
+﻿  Array.cpp
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(30,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(33,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(49,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(52,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(53,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(13,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(23,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(37,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(50,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(87,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(102,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(111,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+  oop_lab_6.1.cpp
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(30,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(33,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(49,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(52,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Aquatic\source\repos\oop_lab_6.1\oop_lab_6.1\Array.h(53,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  oop_lab_6.1.vcxproj -> C:\Users\Aquatic\source\repos\oop_lab_6.1\Debug\oop_lab_6.1.exe
